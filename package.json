@@ -1,0 +1,17 @@
+{
+  "name": "startpage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Leigh Brenecki <l@leigh.net.au>",
+  "license": "MPL-2.0",
+  "private": false,
+  "dependencies": {
+    "automerge": "^0.12.1",
+    "dropbox": "^4.0.30",
+    "js-cookie": "^2.2.1",
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.3"
+  }
+}
